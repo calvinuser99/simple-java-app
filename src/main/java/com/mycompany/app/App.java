@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Take 2: Make a change to demonstrate Poll SCM.");
+        System.out.println("Modified to test githook.");
     }
 
     public String getMessage() {
